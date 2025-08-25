@@ -1,0 +1,12 @@
+W:\VP_Week1\VP_Week1\bin\Debug\VP_Week1.exe.config
+W:\VP_Week1\VP_Week1\bin\Debug\VP_Week1.exe
+W:\VP_Week1\VP_Week1\bin\Debug\VP_Week1.pdb
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.csproj.AssemblyReference.cache
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.Form1.resources
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.Properties.Resources.resources
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.csproj.GenerateResource.cache
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.csproj.CoreCompileInputs.cache
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.exe
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.pdb
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.exe.config
+W:\VP_Week1\VP_Week1\obj\Debug\VP_Week1.Form2.resources
